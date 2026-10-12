@@ -103,13 +103,3 @@ def main():
     print(f"Total number of open ports: {len(open_ports)}")
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-        
-
-           
